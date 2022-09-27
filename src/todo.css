@@ -1,0 +1,45 @@
+.head-con{
+    
+    justify-content: center;
+    text-align: center;
+}.btn-add{
+    background-color:springgreen;
+    width: 93px;
+}
+input{
+    width: 300px;
+
+
+}
+.con-flex{
+    /* display: flex; */
+}
+.content{
+    width: 400px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: flex-end; */
+    text-align: center;
+}
+.btn-del{
+    background-color: tomato;
+    
+    
+    justify-content: center;
+   
+}
+.btn-upd{
+    background-color: orange;
+
+    justify-content: center;
+    margin-left: 2px;
+    
+}
+.span-con{
+    text-align: center;
+}
+.class-con{
+    text-align: -webkit-center;
+    padding: 10px;
+}
